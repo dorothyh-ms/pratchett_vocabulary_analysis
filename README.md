@@ -1,5 +1,6 @@
 # pratchett_vocabulary_analysis
 For my master's thesis, I investigated the effects of a subtype of Alzheimer's Disease, posterior cortical atrophy (PCA) on writing. I analyzed a corpus of 35 books by Terry Pratchett, a well-known author with PCA. 
+
 This repository specifically contains Jupyter notebooks relevant to the vocabulary analysis section of my master's thesis. I investigated longitudinal trends in the proportions of words from five different lexico-semantic word categories (spatial prepositions, colors, numbers, adjectives of form, and function words). I drew these word categories from Shebani et al.'s 2017 paper "Semantic word category processing in semantic dementia and posterior cortical atrophy". 
 
  Below is a description of each of these notebooks:
